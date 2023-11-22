@@ -145,3 +145,11 @@ form {
   .sociales{
     display:flex;
   }
+
+  .image-container {
+    border: 4px dotted teal;
+border: #ffffff;
+border-radius: 5%;
+width: 80%;
+height: 60%;
+}

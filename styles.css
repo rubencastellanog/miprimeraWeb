@@ -14,7 +14,8 @@ p{
   text-align: justify;
   justify-content: space-between;
 }
-    .menu-areo{
+
+.menu-areo{
     display: flex;
     gap: 1.3em;
     margin: 0;
@@ -147,9 +148,9 @@ form {
   }
 
   .image-container {
-    border: 4px dotted teal;
+border: 2px;
 border: #ffffff;
 border-radius: 5%;
-width: 80%;
-height: 60%;
+width: 1%;
+height: 0.5%;
 }

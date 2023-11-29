@@ -145,6 +145,16 @@ form {
   
   .sociales{
     display:flex;
+      }
+
+  iframe{
+        display:flex;
+
+  }
+  
+  .autor{
+    text-align: left;
+    size: 1em;
   }
 
   .card-container {
